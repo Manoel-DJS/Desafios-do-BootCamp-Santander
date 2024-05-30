@@ -9,4 +9,7 @@
 - Primeiro Desafio(1): Desafio de Sintaxe
 - Por em prática os fundamentos da linguagem e noções de regras de estrutura de sintaxe.
 
-## Preparando 2 Desafio
+## Controle de Fluxo - Desafio
+
+- Segundo Desafio(2): Controle de fluxo
+- Exercitar todo o conteúdo apresentado no módulo
